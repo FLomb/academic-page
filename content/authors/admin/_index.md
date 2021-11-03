@@ -69,9 +69,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a post-doctoral researcher at [TU Delft](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/researchers/dr-f-francesco-lombardi), working on computational methods to support the practical realisation of EU-wide fast and deep decarbonisation. I hold a PhD in Energy Engineering from Politecnico di Milano and I have been a visiting researcher at ETH Zurich and KU Leuven.
 
 My research activities mainly focus on innovative optimisation methods applied to large-scale energy system models that allow to generate and visualise a wide range of feasible alternatives near the optimum, from which stakeholders can realise trade-offs and identify compromised, practically viable solutions. An example is the original [SPORES algorithm](https://doi.org/10.1016/j.joule.2020.08.002), now implemented in the open-source energy modelling framework [Calliope](https://calliope.readthedocs.io/en/stable/user/advanced_features.html#spores-mode). I also work on the smart integration of electric vehicles and heat in the power system, and I am the lead developer of the open-source [RAMP software engine](https://github.com/RAMP-project/) for cross-sectoral stochastic demand simulation.
 
 Currently, I am leading TU Delft's research tasks in the [SEEDS](https://seeds-project.org) and [WindSPORES](aramis.admin.ch/Grunddaten/?ProjectID=48588) projects, both of which ground on and further develop the SPORES method and apply it to real-world policy-relevant questions. I also work in the H2020 [ECEMF](https://www.ecemf.eu) project, aimed at establishing a permanent forum for intercomparison of modelling results across European modelling teams and interfacing with the EU Commission.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
