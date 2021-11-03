@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research activities mainly focus on innovative optimisation methods applied to large-scale energy system models that allow to generate and visualise a wide range of feasible alternatives near the optimum, from which stakeholders can realise trade-offs and identify compromised, practically viable solutions. An example is the original [SPORES algorithm](https://doi.org/10.1016/j.joule.2020.08.002), now implemented in the open-source energy modelling framework [Calliope](https://calliope.readthedocs.io/en/stable/user/advanced_features.html#spores-mode). I also work on the smart integration of electric vehicles and heat in the power system, and I am the lead developer of the open-source [RAMP software engine](https://github.com/RAMP-project/) for cross-sectoral stochastic demand simulation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I am leading TU Delft's research tasks in the [SEEDS](https://seeds-project.org) and [WindSPORES](aramis.admin.ch/Grunddaten/?ProjectID=48588) projects, both of which ground on and further develop the SPORES method and apply it to real-world policy-relevant questions. I also work in the H2020 [ECEMF](https://www.ecemf.eu) project, aimed at establishing a permanent forum for intercomparison of modelling results across European modelling teams and interfacing with the EU Commission.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
