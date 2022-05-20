@@ -279,4 +279,6 @@ body { background-color: #F5F5F5; font-family: "Noto Sans", Noto Sans Math, sans
 
 img.rounded-corners { margin-right: 20px; clip-path: circle(); }
 
+img.next-to-text { margin-right: 20px; }
+
 /*# sourceMappingURL=main.css.map */

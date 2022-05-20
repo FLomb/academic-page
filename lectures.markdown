@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Lectures
+title: Lectures & Talks
 permalink: /lectures/
+order: 3
 ---
 
 This page provides open-access slides from selected recent lectures and talks (starting from December 2021)
