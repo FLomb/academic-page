@@ -5,7 +5,7 @@ permalink: /research-outputs/
 order: 2
 ---
 
-A list of my publications is accessible via [Google Scholar](https://scholar.google.com/citations?user=6DhK95QAAAAJ&hl=en). Some additional items, such as posters presented at conferences, are available from [ResearchGate](https://www.researchgate.net/profile/Francesco-Lombardi-5/research).
+A list of my publications is accessible via [Google Scholar](https://scholar.google.com/citations?user=6DhK95QAAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0002-7624-5886). Some additional items, such as posters presented at conferences, are available from [ResearchGate](https://www.researchgate.net/profile/Francesco-Lombardi-5/research).
 
 Below is an overview of the (primary) research areas I am currently working on. If you have great ideas for collaboration or a thesis on these topics, get in touch!
 
