@@ -42,6 +42,6 @@ Started as a side project for the stochastic simulation of <a href="https://www.
 
 The methods above allow me to investigate urgent research questions around the energy transition, above all the trade-offs between equally viable options to make our energy systems carbon-neutral. For instance, what changes, in practice, between directly electrifying our heat, transport and industry use of energy versus letting green hydrogen substitute conventional fuels.</p>
 
-<p>A <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4012180">recent work</a> that I have co-authored uses a combination of SPORES, cross-scale modelling and other methods to look at hundreds of possible ways to make Europe carbon-neutral and energy self-sufficient. These include both fully electrified and highly hydrogen-based system configurations. You can explore the options and the trade-offs yourself at <a href="https://explore.callio.pe">explore.callio.pe</a>.</p>
+<p>A <a href="https://www.cell.com/joule/fulltext/S2542-4351(22)00236-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435122002367%3Fshowall%3Dtrue">recent work</a> that I have co-authored uses a combination of SPORES, cross-scale modelling and other methods to look at hundreds of possible ways to make Europe carbon-neutral and energy self-sufficient. These include both fully electrified and highly hydrogen-based system configurations. You can explore the options and the trade-offs yourself at <a href="https://explore.callio.pe">explore.callio.pe</a>.</p>
 
 </div>
