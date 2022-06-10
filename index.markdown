@@ -14,7 +14,7 @@ On this website, you can have an overview of my recent research outputs and acce
 
 <img src="/assets/calliope_explorer.gif" align="center" style="padding-top: 10px; padding-bottom: 10px"/>
 
-There are hundreds of feasible ways to reach carbon neutrality and energy self-sufficiency in Europe. System balancing can be achieved either with or without mechanisms such as firm capacity, large-scale transmission expansion and power-to-gas. However, there are trade-offs. For instance, strongly limiting bioenergy use is only possible with strong investments on the intelligent integration of energy sectors. Explore the options yourself at <a href="https://explore.callio.pe">explore.callio.pe</a> and check out the full paper by <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4012180">Pickering, Lombardi and Pfenninger</a>.
+There are hundreds of feasible ways to reach carbon neutrality and energy self-sufficiency in Europe. System balancing can be achieved either with or without mechanisms such as firm capacity, large-scale transmission expansion and power-to-gas. However, there are trade-offs. For instance, strongly limiting bioenergy use is only possible with strong investments on the intelligent integration of energy sectors. Explore the options yourself at <a href="https://explore.callio.pe">explore.callio.pe</a> and check out the full paper by <a href="https://www.cell.com/joule/fulltext/S2542-4351(22)00236-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435122002367%3Fshowall%3Dtrue">Pickering, Lombardi and Pfenninger</a>.
 
 </div>
 
