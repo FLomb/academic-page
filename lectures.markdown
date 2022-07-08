@@ -7,6 +7,8 @@ order: 3
 
 This page provides open-access slides from selected recent lectures and talks (starting from December 2021)
 
+- *2022, Jun 08*. [The RAMP project for demand simulation.From remote villages to mobility and charging time series of electric vehicles across European countries](/assets/lectures/RAMP_project_and_RAMP_mobility.pdf) Joint presentation with F. D. Sanvito for the TU Delft's Power Rangers seminars.
+
 - *2022, May 18*. [Is an ‘optimal’ solution desirable in practice? Decision support for renewables deployment through Spatially Explicit Practically Optimal Alternatives.](/assets/lectures/SPORES_alternatives_to_the_optimum.pdf) Invited presentation for the GIZ
 
 - *2022, Feb 11*. [Can hydrogen integration in energy systems be the key to the acceleration of the energy transition?](/assets/lectures/brief_lecture_on_hydrogen_v4_pdfready.pdf) Short lecture for the TPM Faculty of TU Delft.
