@@ -37,7 +37,7 @@ deployment scenarios for Switzerland</b></a></h></p>
 
 <p>The ECEMF project aims to establish a permanent European forum for systematically interfacing energy and climate researchers and policymakers. In this framework, the project will provide new insights based on a first-of-its-kind <b>model-result intercomparison</b> exercise on achieving climate neutrality in Europe, including over 20 models and 15 top research groups from the outset. One of such models is the <a href="https://github.com/calliope-project/sector-coupled-euro-calliope">Sector-Coupled Euro-Calliope</a>, which I contribute to develop.</p>
 
-<p>The modelling outcomes will support discussion with key decision makers via a range of novel methods, including interactive embeddable visualisation blocks, policy briefs, workshops and high-profile events. The project is funded by the European Union’s Horizon 2020 programme.</p>
+<p>The modelling outcomes will support discussion with key decision makers via a range of novel methods, including interactive embeddable visualisation blocks, policy briefs, workshops and high-profile events. The project is funded by the EU’s Horizon 2020 programme.</p>
 
 </div>
 
@@ -48,7 +48,7 @@ deployment scenarios for Switzerland</b></a></h></p>
 </b></h></p>
 
 
-<p>JustWind4All aims to support the acceleration of on- and offshore wind energy, including emerging wind technologies like airborne and floating, by using a <b>trans-disciplinary multi-method research design</b>. It combines socio-environmental impact assessment, techno-economic modelling, <a href="https://secure.jbs.elsevierhealth.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.cell.com%2Fjoule%2Ffulltext%2FS2542-4351%2820%2930348-2%3F_returnURL%3Dhttps%253A%252F%252Flinkinghub.elsevier.com%252Fretrieve%252Fpii%252FS2542435120303482%253Fshowall%253Dtrue&rc=0">SPORES</a>, participatory processes, living labs and more to support decision-making, focussing on energy justice and social innovation. The project, awarded funding by the European Union's Horizon programme in 2022, is yet to start.  
+<p>JustWind4All aims to support the acceleration of on- and offshore wind energy, including emerging wind technologies like airborne and floating, by using a <b>trans-disciplinary multi-method research design</b>. It combines socio-environmental impact assessment, techno-economic modelling, <a href="https://secure.jbs.elsevierhealth.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.cell.com%2Fjoule%2Ffulltext%2FS2542-4351%2820%2930348-2%3F_returnURL%3Dhttps%253A%252F%252Flinkinghub.elsevier.com%252Fretrieve%252Fpii%252FS2542435120303482%253Fshowall%253Dtrue&rc=0">SPORES</a>, participatory processes, living labs and more to support decision-making, focussing on energy justice and social innovation. The project, awarded funding by the EU's Horizon programme in 2022, is yet to start.  
 </p>
 
 </div>
