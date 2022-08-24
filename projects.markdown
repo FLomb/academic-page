@@ -37,7 +37,7 @@ deployment scenarios for Switzerland</b></a></h></p>
 
 <p>The ECEMF project aims to establish a permanent European forum for systematically interfacing energy and climate researchers and policymakers. In this framework, the project will provide new insights based on a first-of-its-kind <b>model-result intercomparison</b> exercise on achieving climate neutrality in Europe, including over 20 models and 15 top research groups from the outset. One of such models is the <a href="https://github.com/calliope-project/sector-coupled-euro-calliope">Sector-Coupled Euro-Calliope</a>, which I contribute to develop.</p>
 
-<p>The modelling outcomes will support the discussion with the key decision makers via a range of novel methods, including interactive embeddable visualisation blocks, policy briefs, workshops and high-profile events. The project is funded by the European Union’s Horizon 2020 programme.</p>
+<p>The modelling outcomes will support discussion with key decision makers via a range of novel methods, including interactive embeddable visualisation blocks, policy briefs, workshops and high-profile events. The project is funded by the European Union’s Horizon 2020 programme.</p>
 
 </div>
 
