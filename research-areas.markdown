@@ -16,7 +16,7 @@ Below is an overview of the (primary) research areas I am currently working on. 
 
 Energy system models are tools to support deliberation about which technologies do deploy, and where, to achieve the energy transition. Ideally, they identify for us the 'optimal' answer to such questions. Except, such an optimal answer is often not viable nor desirable in practice. So, is there no alternative? </p>
 
-<p>In fact, there are many technically-feasible, economically-comparable alternatives. They are just normally hidden from view. That's why I work on optimisation methods that make these options available. An example is the <b>SPORES</b> algorithm. By bringing such options to the surface, I aim to expand the perception of what is possible, thereby supporting a more meaningful societal deliberation. Many of the <a href="/about">projects</a> that fund my current research are based on SPORES. Check out the full paper published in  <a href="/assets/spores.png">Joule</a>.</p>
+<p>In fact, there are many technically-feasible, economically-comparable alternatives. They are just normally hidden from view. That's why I work on optimisation methods that make these options available. An example is the <b>SPORES</b> algorithm. By bringing such options to the surface, I aim to expand the perception of what is possible, thereby supporting a more meaningful societal deliberation. Many of the <a href="/projects">projects</a> that fund my current research are based on SPORES. Check out the full paper published in  <a href="https://www.cell.com/joule/fulltext/S2542-4351(20)30348-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435120303482%3Fshowall%3Dtrue">Joule</a>.</p>
 
 </div>
 
