@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Non-technical summaries of recent research in the media"
+title:  "Non-technical summaries of our latest research in the media"
 date:   2022-08-26 12:00:00 +0200
 categories: jekyll update
 ---
