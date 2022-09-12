@@ -10,7 +10,7 @@ Below is an overview of the ongoing or upcoming funding-awarded projects to whic
 <div style="background-color: #E1E6E9; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #1756a9;"><a href="https://seeds-project.org"><b>SEEDS. Stakeholder-Based Environmentally-Sustainable and Economically Doable Scenarios for the Energy Transition.</b></a></h></p> 
 
-<p>In the SEEDS project, we are building a <b>co-creative, multi-model workflow</b> that integrates <b>human preferences</b> into the generation of carbon-neutral energy system configurations while accurately modelling the relevant technical, economic and environmental constraints. The cornerstone of the modelling workflow is the <a href="https://secure.jbs.elsevierhealth.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.cell.com%2Fjoule%2Ffulltext%2FS2542-4351%2820%2930348-2%3F_returnURL%3Dhttps%253A%252F%252Flinkinghub.elsevier.com%252Fretrieve%252Fpii%252FS2542435120303482%253Fshowall%253Dtrue&rc=0">SPORES</a> approach I developed.</p>
+<p>In the SEEDS project, we are building a <b>co-creative, multi-model workflow</b> that integrates <b>human preferences</b> into the generation of carbon-neutral energy system configurations while accurately modelling the relevant technical, economic and environmental constraints. The cornerstone of the modelling workflow is the <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a> approach I developed.</p>
 
 <p>We do this in a consortium of four European institutions for the case of Portugal, together with a broad range of stakeholders ranging from citizen associations to energy cooperatives, system operators and policymakers. The three-year project, funded by CHIST-ERA, runs from March 2021 to February 2024. More details and updates on the <a href="https://seeds-project.org">project website</a>.</p>
 
@@ -22,7 +22,7 @@ Below is an overview of the ongoing or upcoming funding-awarded projects to whic
 <p><h style="color: #1756a9;"><a href="https://www.aramis.admin.ch/Grunddaten/?ProjectID=48588"><b>WindSPORES. Policy-relevant wind power
 deployment scenarios for Switzerland</b></a></h></p> 
 
-<p>Wind power still faces low success in Switzerland, suffering from lower productivity than in neighbouring countries and local resistance. This project, funded by the Swiss Federal Office of Energy, aims to identify hundreds of different technically and economically feasible <b>spatial configurations</b> for Swiss wind deployment, generated through <a href="https://secure.jbs.elsevierhealth.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.cell.com%2Fjoule%2Ffulltext%2FS2542-4351%2820%2930348-2%3F_returnURL%3Dhttps%253A%252F%252Flinkinghub.elsevier.com%252Fretrieve%252Fpii%252FS2542435120303482%253Fshowall%253Dtrue&rc=0">SPORES</a>. </p>
+<p>Wind power still faces low success in Switzerland, suffering from lower productivity than in neighbouring countries and local resistance. This project, funded by the Swiss Federal Office of Energy, aims to identify hundreds of different technically and economically feasible <b>spatial configurations</b> for Swiss wind deployment, generated through <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a>. </p>
 
 <p>We will quantify what <b>trade-offs</b> exist between alternative ways of distributing wind capacity across the country regarding landscape impact, grid stability benefits, and resilience across different weather conditions and weather regimes. The results will help clarify the possible role of wind power in a rapidly decarbonising Switzerland, with direct relevance to policy and planning.
 </p>
@@ -48,7 +48,7 @@ deployment scenarios for Switzerland</b></a></h></p>
 </b></h></p>
 
 
-<p>JustWind4All aims to support the acceleration of on- and offshore wind energy, including emerging wind technologies like airborne and floating, by using a <b>trans-disciplinary multi-method research design</b>. It combines socio-environmental impact assessment, techno-economic modelling, <a href="https://secure.jbs.elsevierhealth.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.cell.com%2Fjoule%2Ffulltext%2FS2542-4351%2820%2930348-2%3F_returnURL%3Dhttps%253A%252F%252Flinkinghub.elsevier.com%252Fretrieve%252Fpii%252FS2542435120303482%253Fshowall%253Dtrue&rc=0">SPORES</a>, participatory processes, living labs and more to support decision-making, focussing on energy justice and social innovation. The project, awarded funding by the EU's Horizon programme in 2022, is yet to start.  
+<p>JustWind4All aims to support the acceleration of on- and offshore wind energy, including emerging wind technologies like airborne and floating, by using a <b>trans-disciplinary multi-method research design</b>. It combines socio-environmental impact assessment, techno-economic modelling, <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a>, participatory processes, living labs and more to support decision-making, focussing on energy justice and social innovation. The project, awarded funding by the EU's Horizon programme in 2022, is yet to start.  
 </p>
 
 </div>
