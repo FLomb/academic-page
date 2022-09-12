@@ -6,7 +6,7 @@ order: 1
 ---
 
 
-<img src="/assets/id_pic.jpg" width="120" align="left" class="rounded-corners"/>
+<img src="/assets/tud_pic.jpg" width="120" align="left" class="rounded-corners"/>
 
 I am a post-doctoral researcher at [TU Delft](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/researchers/dr-f-francesco-lombardi), working on computational methods to support the practical realisation of fast and deep decarbonisation.
 
