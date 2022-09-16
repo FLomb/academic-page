@@ -7,6 +7,8 @@ order: 3
 
 This page provides open-access slides from selected recent lectures and talks (starting from December 2021)
 
+- *2022, Sep 16*. [Perfect foresight and typical weather. Too good to be meaningful?](/assets/lectures/NextGenEC22_pefect_foresight_and_weather_pdfready.pdf) Invited talk for the Next Generation Challenges in Energy-Climate Modelling Workshop 2022.
+
 - *2022, Sep 09*. [Country-scale energy infrastructure. Which societal preferences would most restrict the technical option space?](/assets/lectures/ISNGI_2022.pdf) Presentation for the International Symposyum for Next Generation Infrastructures.
 
 - *2022, Jun 08*. [The RAMP project for demand simulation.From remote villages to mobility and charging time series of electric vehicles across European countries](/assets/lectures/RAMP_project_and_RAMP_mobility.pdf) Joint presentation with F. D. Sanvito for the TU Delft's Power Rangers seminars.
