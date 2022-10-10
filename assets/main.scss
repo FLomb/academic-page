@@ -11,6 +11,9 @@ body { background-color: #F5F5F5;
 }
 
 
+a { color: #4032F9; text-decoration: none; }
+a:visited { color: #4032F9; }
+
 img.rounded-corners {
   margin-right: 20px;
   clip-path: circle();

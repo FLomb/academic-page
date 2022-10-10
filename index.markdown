@@ -12,7 +12,7 @@ This website provides an overview of my ongoing projects and recent research out
 
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
-<h style="color: #1756a9;">Recent research highlights</h> 
+<h style="color: #111;">Recent research highlights</h> 
 
 <img src="/assets/calliope_explorer.gif" align="center" style="padding-top: 10px; padding-bottom: 10px"/>
 
