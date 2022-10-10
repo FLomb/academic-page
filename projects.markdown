@@ -7,7 +7,7 @@ order: 4
 
 Below is an overview of the ongoing or upcoming funding-awarded projects to which I contribute. Together with the [research areas](/research-outputs), they provide an overview of the main ongoing activities as a basis for potential ideas for collaboration.
 
-<div style="background-color: #E1E6E9; text-align:left; vertical-align: middle; padding:20px 20px;">
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #1756a9;"><a href="https://seeds-project.org"><b>SEEDS. Stakeholder-Based Environmentally-Sustainable and Economically Doable Scenarios for the Energy Transition.</b></a></h></p> 
 
 <p>In the SEEDS project, we are building a <b>co-creative, multi-model workflow</b> that integrates <b>human preferences</b> into the generation of carbon-neutral energy system configurations while accurately modelling the relevant technical, economic and environmental constraints. The cornerstone of the modelling workflow is the <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a> approach I developed.</p>
@@ -18,7 +18,7 @@ Below is an overview of the ongoing or upcoming funding-awarded projects to whic
 
 <div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
-<div style="background-color: #E1E6E9; text-align:left; vertical-align: middle; padding:20px 20px;">
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #1756a9;"><a href="https://www.aramis.admin.ch/Grunddaten/?ProjectID=48588"><b>WindSPORES. Policy-relevant wind power
 deployment scenarios for Switzerland</b></a></h></p> 
 
@@ -31,7 +31,7 @@ deployment scenarios for Switzerland</b></a></h></p>
 
 <div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
-<div style="background-color: #E1E6E9; text-align:left; vertical-align: middle; padding:20px 20px;">
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #1756a9;"><a href="https://www.ecemf.eu"><b>ECEMF. European Climate and Energy Modelling Forum</b></a></h></p>
 
 
@@ -43,7 +43,7 @@ deployment scenarios for Switzerland</b></a></h></p>
 
 <div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
-<div style="background-color: #E1E6E9; text-align:left; vertical-align: middle; padding:20px 20px;">
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #1756a9;"><b>JustWind4All. Just and effective governance for accelerating wind energy
 </b></h></p>
 

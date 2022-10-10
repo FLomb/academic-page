@@ -9,7 +9,7 @@ A list of my publications is accessible via [Google Scholar](https://scholar.goo
 
 Below is an overview of the (primary) research areas I am currently working on. If you have great ideas for collaboration or a thesis on these topics, get in touch!
 
-<div style="background-color: #E1E6E9; text-align:left; vertical-align: middle; padding:20px 20px;">
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #1756a9;"><b>Optimisation algorithms applied to Energy Sytem models.</b></h> 
 
 <img src="/assets/spores.png" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text"/>
@@ -22,7 +22,7 @@ Energy system models are tools to support deliberation about which technologies 
 
 <div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
-<div style="background-color: #E1E6E9; text-align:left; vertical-align: middle; padding:20px 20px;">
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #1756a9;"><b>Cross-scale modelling and demand simulation.</b></h> 
 
 <img src="/assets/cross.png" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text"/>
@@ -35,7 +35,7 @@ Started as a side project for the stochastic simulation of <a href="https://www.
 
 <div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
-<div style="background-color: #E1E6E9; text-align:left; vertical-align: middle; padding:20px 20px;">
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #1756a9;"><b>Trade-offs between sector-coupling options.</b></h> 
 
 <img src="/assets/synfuel.png" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text"/>

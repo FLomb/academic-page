@@ -9,7 +9,9 @@ I am a post-doctoral researcher at TU Delft, working on computational methods to
 
 This website provides an overview of my ongoing projects and recent research outputs, and access to material from lectures or seminars. Get in touch if you are looking for a collaboration or a thesis project. You'll find my contact details at the bottom of each page. 
 
-<div style="background-color: #E1E6E9; text-align:left; vertical-align: middle; padding:20px 20px;">
+
+
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <h style="color: #1756a9;">Recent research highlights</h> 
 
 <img src="/assets/calliope_explorer.gif" align="center" style="padding-top: 10px; padding-bottom: 10px"/>
