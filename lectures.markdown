@@ -11,7 +11,7 @@ This page provides open-access slides from selected recent lectures and talks (s
 
 - *2022, Sep 09*. [Country-scale energy infrastructure. Which societal preferences would most restrict the technical option space?](/assets/lectures/ISNGI_2022.pdf) Presentation for the International Symposyum for Next Generation Infrastructures.
 
-- *2022, Jun 08*. [The RAMP project for demand simulation.From remote villages to mobility and charging time series of electric vehicles across European countries](/assets/lectures/RAMP_project_and_RAMP_mobility.pdf) Joint presentation with F. D. Sanvito for the TU Delft's Power Rangers seminars.
+- *2022, Jun 08*. [The RAMP project for demand simulation. From remote villages to mobility and charging time series of electric vehicles across European countries.](/assets/lectures/RAMP_project_and_RAMP_mobility.pdf) Joint presentation with F. D. Sanvito for the TU Delft's Power Rangers seminars.
 
 - *2022, May 18*. [Is an ‘optimal’ solution desirable in practice? Decision support for renewables deployment through Spatially Explicit Practically Optimal Alternatives.](/assets/lectures/SPORES_alternatives_to_the_optimum.pdf) Invited presentation for the GIZ
 
