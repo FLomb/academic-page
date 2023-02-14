@@ -7,6 +7,8 @@ order: 3
 
 This page provides open-access slides from selected recent lectures and talks (starting from December 2021)
 
+- *2023, Feb 14*. [System integration of Airborne Wind Energy. Quantifying grid balancing benefits and more](/assets/lectures/TUD_AWE_system_integration.pdf) Presentation to join the IEA Wind TCP Task 48 on airborne wind energy.
+
 - *2022, Sep 16*. [Perfect foresight and typical weather. Too good to be meaningful?](/assets/lectures/NextGenEC22_pefect_foresight_and_weather_pdfready.pdf) Invited talk for the Next Generation Challenges in Energy-Climate Modelling Workshop 2022.
 
 - *2022, Sep 09*. [Country-scale energy infrastructure. Which societal preferences would most restrict the technical option space?](/assets/lectures/ISNGI_2022.pdf) Presentation for the International Symposyum for Next Generation Infrastructures.

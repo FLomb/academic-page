@@ -44,11 +44,11 @@ deployment scenarios for Switzerland</b></a></h></p>
 <div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
-<p><h style="color: #4032F9;"><b>JustWind4All. Just and effective governance for accelerating wind energy
-</b></h></p>
+<p><h style="color: #4032F9;"><a href="https://www.linkedin.com/company/justwind4all/"><b>JustWind4All. Just and effective governance for accelerating wind energy
+</b></a></h></p>
 
 
-<p>JustWind4All aims to support the acceleration of on- and offshore wind energy, including emerging wind technologies like airborne and floating, by using a <b>trans-disciplinary multi-method research design</b>. It combines socio-environmental impact assessment, techno-economic modelling, <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a>, participatory processes, living labs and more to support decision-making, focussing on energy justice and social innovation. The project, awarded funding by the EU's Horizon programme in 2022, is yet to start.  
+<p>JustWind4All aims to support the acceleration of on- and offshore wind energy, including emerging wind technologies like airborne and floating, by using a <b>trans-disciplinary multi-method research design</b>. It combines socio-environmental impact assessment, techno-economic modelling, <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a>, participatory processes, living labs and more to support decision-making, focussing on energy justice and social innovation. The project, awarded funding by the EU's Horizon programme in 2022, started in October 2022 and runs for three years.  
 </p>
 
 </div>
