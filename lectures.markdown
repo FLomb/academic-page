@@ -7,9 +7,9 @@ order: 3
 
 This page provides open-access slides from selected recent lectures and talks (starting from December 2021)
 
-- *2023, Mar 23*. [The RAMP project for demand simulation. A bottom-up multi-institution co-development effort](/assets/lectures/openmod_2023_ramp.pdf) Lightning talk on RAMP's co-development process for the 11th OpenMod workshop in Vienna. (also available as [video recording](https://www.youtube.com/watch?v=WoTQHNiu7NA))
+- *2023, Mar 23*. [The RAMP project for demand simulation. A bottom-up multi-institution co-development effort.](/assets/lectures/openmod_2023_ramp.pdf) Lightning talk on RAMP's co-development process for the 11th OpenMod workshop in Vienna. (also available as [video recording](https://www.youtube.com/watch?v=WoTQHNiu7NA))
 
-- *2023, Feb 14*. [System integration of Airborne Wind Energy. Quantifying grid balancing benefits and more](/assets/lectures/TUD_AWE_system_integration.pdf) Presentation to join the IEA Wind TCP Task 48 on airborne wind energy.
+- *2023, Feb 14*. [System integration of Airborne Wind Energy. Quantifying grid balancing benefits and more.](/assets/lectures/TUD_AWE_system_integration.pdf) Presentation to join the IEA Wind TCP Task 48 on airborne wind energy.
 
 - *2022, Sep 16*. [Perfect foresight and typical weather. Too good to be meaningful?](/assets/lectures/NextGenEC22_pefect_foresight_and_weather_pdfready.pdf) Invited talk for the Next Generation Challenges in Energy-Climate Modelling Workshop 2022.
 
