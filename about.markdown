@@ -8,7 +8,7 @@ order: 1
 
 <img src="/assets/tud_pic.jpg" width="120" align="left" class="rounded-corners"/>
 
-I am a post-doctoral researcher at [TU Delft](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/researchers/dr-f-francesco-lombardi), working on computational methods to support the practical realisation of fast and deep decarbonisation.
+I am a post-doctoral researcher at [TU Delft](https://www.tudelft.nl/en/staff/f.lombardi/?cHash=d1e3cb32ea77e2f6b4b93327f6d0b992), working on computational methods to support the practical realisation of fast and deep decarbonisation.
 
 In particular, I develop optimisation methods applied to large-scale energy system models that generate a wide range of feasible alternatives near the optimum, from which stakeholders can realise trade-offs and identify compromise, practically viable solutions. An example is the original [SPORES algorithm](https://doi.org/10.1016/j.joule.2020.08.002), implemented in the open-source modelling framework [Calliope](https://calliope.readthedocs.io/en/stable/user/advanced_features.html#spores-mode).
 
