@@ -10,7 +10,7 @@ Below is an overview of the ongoing or upcoming funding-awarded projects to whic
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><a href="https://seeds-project.org"><b>SEEDS. Stakeholder-Based Environmentally-Sustainable and Economically Doable Scenarios for the Energy Transition.</b></a></h></p> 
 
-<p>In the SEEDS project, we are building a <b>co-creative, multi-model workflow</b> that integrates <b>human preferences</b> into the generation of carbon-neutral energy system configurations while accurately modelling the relevant technical, economic and environmental constraints. The cornerstone of the modelling workflow is the <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a> approach I developed.</p>
+<p>In the SEEDS project, we are building a <b>co-creative, multi-model workflow</b> that integrates <b>human preferences</b> into the generation of carbon-neutral energy system design options while accurately modelling the relevant technical, economic and environmental constraints. The cornerstone of the modelling workflow is the <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a> approach I developed.</p>
 
 <p>We do this in a consortium of four European institutions for the case of Portugal, together with a broad range of stakeholders ranging from citizen associations to energy cooperatives, system operators and policymakers. The three-year project, funded by CHIST-ERA, runs from March 2021 to February 2024. More details and updates on the <a href="https://seeds-project.org">project website</a>.</p>
 
@@ -32,6 +32,18 @@ deployment scenarios for Switzerland</b></a></h></p>
 <div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
+<p><h style="color: #4032F9;"><a href="https://justwind4all.eu"><b>JustWind4All. Just and effective governance for accelerating wind energy
+</b></a></h></p>
+
+
+<p>JustWind4All aims to support the acceleration of on- and offshore wind energy, including emerging wind technologies like airborne and floating, by using a <b>trans-disciplinary multi-method research design</b>. It combines socio-environmental impact assessment, techno-economic modelling, <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a>, participatory processes, living labs and more to support decision-making, focussing on energy justice and social innovation. The project, awarded funding by the EU's Horizon programme, started in October 2022 and runs for three years.  
+</p>
+
+</div>
+
+<div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
+
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><a href="https://www.ecemf.eu"><b>ECEMF. European Climate and Energy Modelling Forum</b></a></h></p>
 
 
@@ -40,17 +52,3 @@ deployment scenarios for Switzerland</b></a></h></p>
 <p>The modelling outcomes will support discussion with key decision makers via a range of novel methods, including interactive embeddable visualisation blocks, policy briefs, workshops and high-profile events. The project is funded by the EU’s Horizon 2020 programme.</p>
 
 </div>
-
-<div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
-
-<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
-<p><h style="color: #4032F9;"><a href="https://www.linkedin.com/company/justwind4all/"><b>JustWind4All. Just and effective governance for accelerating wind energy
-</b></a></h></p>
-
-
-<p>JustWind4All aims to support the acceleration of on- and offshore wind energy, including emerging wind technologies like airborne and floating, by using a <b>trans-disciplinary multi-method research design</b>. It combines socio-environmental impact assessment, techno-economic modelling, <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a>, participatory processes, living labs and more to support decision-making, focussing on energy justice and social innovation. The project, awarded funding by the EU's Horizon programme in 2022, started in October 2022 and runs for three years.  
-</p>
-
-</div>
-
-<div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
