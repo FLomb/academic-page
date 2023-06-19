@@ -12,7 +12,7 @@ Below is an overview of the (primary) research areas I am currently working on. 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><b>Optimisation algorithms applied to Energy Sytem models.</b></h> 
 
-<img src="/assets/spores.png" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text"/>
+<img src="/assets/optimisation.svg" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text"/>
 
 Energy system models are tools to support deliberation about which technologies do deploy, and where, to achieve the energy transition. Ideally, they identify for us the 'optimal' answer to such questions. Except, such an optimal answer is often not viable nor desirable in practice. So, is there no alternative? </p>
 
@@ -25,7 +25,7 @@ Energy system models are tools to support deliberation about which technologies 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><b>Cross-scale modelling and demand simulation.</b></h> 
 
-<img src="/assets/cross.png" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text"/>
+<img src="/assets/cross_scale.svg" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text"/>
 
 When dealing with models of large-scale energy systems, such as for entire cities or countries, many technical details end up being overlooked for computational tractability or smoothed out by aggregation. Cross-scale modelling means finding ways to translate those essential technical details for a given research question into information that larger-scale, coarser models can handle.</p>
 
@@ -38,7 +38,7 @@ The open-source software <b>RAMP</b> is one of the key tools I adopt to enable c
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><b>Trade-offs between sector-coupling options.</b></h> 
 
-<img src="/assets/synfuel.png" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text"/>
+<img src="/assets/synfuels.svg" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text"/>
 
 The methods above allow me to investigate urgent research questions around the energy transition, above all the trade-offs between equally viable options to make our energy systems carbon-neutral. For instance, what changes, in practice, between directly electrifying our heat, transport and industry use of energy versus letting green hydrogen substitute conventional fuels.</p>
 

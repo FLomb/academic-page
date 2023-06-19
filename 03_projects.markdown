@@ -12,7 +12,7 @@ Below is an overview of the ongoing or upcoming funding-awarded projects to whic
 
 <p>In the SEEDS project, we are building a <b>co-creative, multi-model workflow</b> that integrates <b>human preferences</b> into the generation of carbon-neutral energy system design options while accurately modelling the relevant technical, economic and environmental constraints. The cornerstone of the modelling workflow is the <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a> approach I developed.</p>
 
-<p>We do this in a consortium of four European institutions for the case of Portugal, together with a broad range of stakeholders ranging from citizen associations to energy cooperatives, system operators and policymakers. The three-year project, funded by CHIST-ERA, runs from March 2021 to February 2024. More details and updates on the <a href="https://seeds-project.org">project website</a>.</p>
+<p>We do this in a consortium of four European institutions for the case of Portugal, together with a broad range of stakeholders ranging from citizen associations to energy cooperatives, system operators and policymakers. The three-year project, funded by CHIST-ERA, runs from March 2021 to February 2024.</p>
 
 </div>
 
