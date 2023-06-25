@@ -7,7 +7,7 @@ layout: home
 
 I am a post-doctoral researcher at TU Delft, working on optimisation algorithms, energy system modelling, energy demand simulation, and other research areas that may support the practical realisation of fast and deep decarbonisation. See the [About](/about) page for further details.
 
-This website provides an overview of my ongoing [projects](/projects) and [research areas](/research-outputs), and access to material from lectures or seminars. Get in touch if you are looking for a collaboration or a thesis project. You'll find my contact details at the bottom of each page. 
+This website provides an overview of my ongoing [projects](/projects) and [research areas](/research-outputs), and access to material from [lectures or seminars](/lectures). Get in touch if you are looking for a collaboration or a thesis project. You'll find my contact details at the bottom of each page. 
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <h style="color: #111;">Recent research highlights</h> 
