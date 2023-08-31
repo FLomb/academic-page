@@ -7,6 +7,8 @@ order: 3
 
 This page provides open-access slides from selected recent lectures and talks (starting from December 2021)
 
+- *2023, Aug 31*. [Generating alternative energy system design options that match real-world needs. The human-trained SPORES algorithm.](/assets/lectures/or2023_hil_spores.pdf) Invited talk for 2023 the Operations Research Conference on advancements in the field of modelling to generate alternatives (MGA). 
+
 - *2023, Jun 14*. [Integrating stakeholder preferences in energy system design: the SEEDS project.](/assets/lectures/SEEDS_project_STEERS_workshop.pdf) Invited talk on methodological insights for the evolution of the Ten-Year Network Development Plan (TYNDP) by the European gas and electricity network operators. 
 
 - *2023, Mar 23*. [The RAMP project for demand simulation. A bottom-up multi-institution co-development effort.](/assets/lectures/openmod_2023_ramp.pdf) Lightning talk on RAMP's co-development process for the 11th OpenMod workshop in Vienna. (also available as [video recording](https://www.youtube.com/watch?v=WoTQHNiu7NA))
