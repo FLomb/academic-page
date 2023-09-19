@@ -27,7 +27,7 @@ Energy system models are tools to support deliberation about which technologies 
 
 <img src="/assets/demand_sim.svg" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text"/>
 
-Energy demand time series are among the most critical inputs for designing carbon-neutral energy systems. However, they are highly uncertain, especially within systems in transition. Historical demand data are a poor predictor of future demand, and, often, temporally-resolved metered data simply do not exist, such as when modelling systems in remote areas or when looking at future electric-vehicle fleets. </p>
+Energy demand time series are among the most critical inputs for designing carbon-neutral energy systems. However, they are highly uncertain, especially within systems in transition: historical demand data are a poor predictor of future demand, and, often, temporally-resolved metered data simply do not exist, such as when modelling systems in remote areas or when looking at future electric-vehicle fleets. </p>
 
 <p><b>RAMP</b> is an open-source software I designed for the stochastic generation of any user-driven energy demand time series based on few simple inputs. It allows simulating user behaviour, from individual to thousands or millions of users, and understanding temporal demand dynamics at any scale. The RAMP-mobility application of the software is the newest: it generates 1-min <a href="https://www.sciencedirect.com/science/article/pii/S0306261922001416">aggregate mobility and charging profiles across all of Europe</a> based solely on openly-available, easy-to gather data. Check out the project's <a href="https://rampdemand.org">website</a> and <a href="https://github.com/RAMP-project">GitHub</a> repository.</p>
 
@@ -40,8 +40,8 @@ Energy demand time series are among the most critical inputs for designing carbo
 
 <img src="/assets/cross_scale.svg" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text"/>
 
-Energy transition questions play out across scales, from households to urban, regional and national levels. When modelling at the scale of a city or larger, technical details within the system end up being overlooked for computational tractability or smoothed out by aggregation. At the same time, energy planning decisions outside the system are often ignored despite their potentially high impact on the system design space.</p> 
+Energy transition questions intersect many geographical scales, from households to urban, regional and national levels. When modelling at the scale of a city or larger, technical details within the system end up being overlooked for computational tractability or smoothed out by aggregation. At the same time, energy planning decisions outside the system are ignored despite their potentially high impact on the system design space.</p> 
 
-<p>With my contributions to the multi-scale open-source energy modelling framework <a href="https://callio.pe">Calliope</a>, I provide approaches to translate those essential small-scale technical details for a given research question into information that larger-scale models can handle. And to integrate information on the many possible surrounding planning decisions in the uncertainty analysis of the design space. This is what I am doing, for instance, in the <a href="/projects">WindSPORES project</a>. </p>
+<p>With my contributions to the multi-scale open-source energy modelling framework <a href="https://callio.pe">Calliope</a>, I provide approaches to: i) translate those essential small-scale technical details for a given research question into information that larger-scale models can handle; and ii) integrate information on the many possible planning decisions outside the system in the uncertainty analysis of the design space. This is what I am doing, for instance, in the <a href="/projects">WindSPORES project</a>. </p>
 
 </div>
