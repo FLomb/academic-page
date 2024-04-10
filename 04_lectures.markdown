@@ -7,6 +7,8 @@ order: 3
 
 This page provides open-access slides from selected recent lectures and talks (starting from December 2021)
 
+- *2024, Mar 20*. [Embracing uncertainty. Or how to use uncertainty to strengthen a modelling analysis](/assets/lectures/SEN1531_embracing_uncertainty_pdf.pdf) Lecture for the TU Delft master course 'Design of Integrated Energy Systems'.
+
 - *2023, Aug 31*. [Generating alternative energy system design options that match real-world needs. The human-trained SPORES algorithm.](/assets/lectures/or2023_hil_spores.pdf) Invited talk for 2023 the Operations Research Conference on advancements in the field of modelling to generate alternatives (MGA). 
 
 - *2023, Jun 14*. [Integrating stakeholder preferences in energy system design: the SEEDS project.](/assets/lectures/SEEDS_project_STEERS_workshop.pdf) Invited talk on methodological insights for the evolution of the Ten-Year Network Development Plan (TYNDP) by the European gas and electricity network operators. 
