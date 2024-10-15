@@ -10,11 +10,12 @@ I am assistant professor at TU Delft, working on optimisation algorithms, energy
 This website provides an overview of my ongoing [projects](/projects) and [research areas](/research-outputs), and access to material from [lectures or seminars](/lectures). Get in touch if you are looking for a collaboration or a thesis project. You'll find my contact details at the bottom of each page. 
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
-<h style="color: #111;">Recent research highlights</h> 
+<h style="color: #111;"><b>Recent research highlights.</b></h> 
 
-<img src="/assets/calliope_explorer.gif" align="center" style="padding-top: 10px; padding-bottom: 10px"/>
+<p></p>
+<img src="/assets/maps_hitl.png" align="right" style="padding-top: 0px; padding-bottom: 0px; padding-left: 15px" width="60%" height="auto"/>
 
-There are hundreds of feasible ways to reach carbon neutrality and energy self-sufficiency in Europe. We can achieve system balancing with or without mechanisms such as firm capacity, large-scale transmission expansion and power-to-gas. However, there are trade-offs. For instance, strongly limiting bioenergy use is only possible with solid investments in the intelligent integration of energy sectors. Explore the options yourself at <a href="https://explore.callio.pe">explore.callio.pe</a> and check out the full paper by <a href="https://www.cell.com/joule/fulltext/S2542-4351(22)00236-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435122002367%3Fshowall%3Dtrue">Pickering, Lombardi and Pfenninger</a>.
+In energy system design analyses, 'modelling to generate alternatives' (MGA) is an increasingly popular method to provide stakeholders with a portfolio of system design options to appraise instead of a single solution. However, generating all the interesting designs is not computationally viable; we must produce a meaningful portfolio despite not knowing which trade-offs matter the most in practice. What if, instead, we used stakeholders' knowledge to guide MGA in the right direction? Our latest pre-print proposes a human-in-the-loop (HITL) approach to integrate stakeholder knowledge into MGA. This HITL-MGA facilitates consensus formation, promising to accelerate technically and socially feasible energy transition decisions. Check out the work on <a href="https://arxiv.org/abs/2407.14353">arXiv</a>.
 
 </div>
 
