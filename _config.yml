@@ -24,7 +24,6 @@ description: # this means to ignore newlines until "baseurl:"
   Except otherwise stated, all material here is licensed under CC BY SA 4.0. The website is powered by Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: FrLomb
 github_username:  FLomb
 
 # Build settings
