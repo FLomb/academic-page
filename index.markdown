@@ -17,7 +17,7 @@ This website provides an overview of my ongoing [projects](/projects) and [resea
 
 In energy system design analyses, 'modelling to generate alternatives' (MGA) is an increasingly popular method to provide stakeholders with a portfolio of system design options to appraise instead of a single solution. However, generating all the interesting designs is not computationally viable; we must produce a meaningful portfolio despite not knowing which trade-offs matter the most in practice. 
 <br>
-What if, instead, we used stakeholders' knowledge to guide MGA in the right direction? Our latest pre-print proposes a human-in-the-loop (HITL) approach to integrate stakeholder knowledge into MGA. This HITL-MGA facilitates consensus formation, promising to accelerate technically and socially feasible energy transition decisions. Check out the full article on <a href="https://doi.org/10.1371/journal.pclm.0000560">PLOS Climate</a> or <a href="https://www.tudelft.nl/powerweb/news-and-events/blog-posts">interview by PowerWeb</a> that walks you through it.
+What if, instead, we used stakeholders' knowledge to guide MGA in the right direction? Our latest pre-print proposes a human-in-the-loop (HITL) approach to integrate stakeholder knowledge into MGA. This HITL-MGA facilitates consensus formation, promising to accelerate technically and socially feasible energy transition decisions. Check out the full article on <a href="https://doi.org/10.1371/journal.pclm.0000560">PLOS Climate</a> or <a href="https://www.tudelft.nl/powerweb/news-and-events/blogs/blog-1#c1705608">interview by PowerWeb</a> that walks you through it.
 
 </div>
 
