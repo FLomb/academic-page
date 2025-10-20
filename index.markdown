@@ -13,11 +13,11 @@ This website provides an overview of my ongoing [projects](/projects) and [resea
 <h style="color: #111;"><b>Recent research highlights.</b></h> 
 
 <p></p>
-<img src="/assets/outreach_loop_trimmed.png" align="left" style="padding-top: 0px; padding-bottom: 0px; padding-right: 10px" width="60%" height="auto"/>
+<img src="/assets/graphical_abstract.jpg" align="left" style="padding-top: 0px; padding-bottom: 0px; padding-right: 10px" width="60%" height="auto"/>
 
-In energy system design analyses, 'modelling to generate alternatives' (MGA) is an increasingly popular method to provide stakeholders with a portfolio of system design options to appraise instead of a single solution. However, generating all the interesting designs is not computationally viable; we must produce a meaningful portfolio despite not knowing which trade-offs matter the most in practice. 
+Energy planning models are used to support practical decisions on which energy technologies, such as wind or solar, to invest in and where to deploy them. These models are programmed to look for the minimum possible economic cost for society without taking into account aspects such as higher social viability or technical reliability. As a result, model insights translate into poorly viable or unreliable plans, slowing down rather than facilitating the energy transition 
 <br>
-What if, instead, we used stakeholders' knowledge to guide MGA in the right direction? Our latest pre-print proposes a human-in-the-loop (HITL) approach to integrate stakeholder knowledge into MGA. This HITL-MGA facilitates consensus formation, promising to accelerate technically and socially feasible energy transition decisions. Check out the full article on <a href="https://doi.org/10.1371/journal.pclm.0000560">PLOS Climate</a> or <a href="https://www.tudelft.nl/powerweb/news-and-events/blogs/blog-1#c1705608">interview by PowerWeb</a> that walks you through it.
+Instead of producing one misleadingly ‘cost-optimal’ solution, we can now systematically map out many economically and technically viable planning strategies and their trade-offs with the Modelling to Generate Alternatives (MGA) method. The significant developments experienced by MGA in the last few years enable applying it in a versatile and user-friendly way. Check out the <a href="https://doi.org/10.1016/j.joule.2025.10214">article in Joule</a>  for practical recommendations on integrating MGA in your analyses, or TU Delft's <a href="https://www.tudelft.nl/en/2025/tbm/boosting-the-energy-transition-by-looking-further-than-the-cost-optimal-solution">interview</a> for a high-level overview of the work. 
 
 </div>
 
