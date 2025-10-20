@@ -22,3 +22,8 @@ img.rounded-corners {
 img.next-to-text {
   margin-right: 20px;
 }
+
+/* Reduce font size of blog post titles */
+.post-title, .post-list h3, .post-link {
+  font-size: 1.2rem; 
+}
