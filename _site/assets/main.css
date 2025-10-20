@@ -275,7 +275,11 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .il { color: #099; }
 
 /** Basic styling */
-body { background-color: #F5F5F5; font-family: "Noto Sans", Noto Sans Math, sans; font-size: 16px; }
+body { background-color: #F5F5F5; font-family: "Open Sans", Open Sans, sans; font-size: 16px; }
+
+a { color: #4032F9; text-decoration: none; }
+
+a:visited { color: #4032F9; }
 
 img.rounded-corners { margin-right: 20px; clip-path: circle(); }
 
