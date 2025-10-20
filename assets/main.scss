@@ -23,4 +23,11 @@ img.next-to-text {
   margin-right: 20px;
 }
 
-
+/* homepage / index post list */
+/* force all post titles smaller */
+.post-title,
+.post-title a,
+.post-list h1, .post-list h2, .post-list h3 {
+  font-size: 12px !important;
+  line-height: 0.5 !important;
+}
