@@ -13,12 +13,11 @@ This website provides an overview of my ongoing [projects](/projects) and [resea
 <h style="color: #111;"><b>Recent research highlights.</b></h> 
 
 <p></p>
-<img src="/assets/graphical_abstract.jpg" align="center" style="padding-top: 0px; padding-bottom: 0px; padding-right: 10px" width="60%" height="auto"/>
-
-<br><br>
 Energy planning models are used to support practical decisions on which energy technologies, such as wind or solar, to invest in and where to deploy them. However, because they overly fixate on minimising costs, their insights translate into poorly viable or unreliable plans, slowing down rather than facilitating the energy transition 
 <br><br>
 Instead of producing one misleadingly ‘cost-optimal’ solution, we can now systematically map out many economically and technically viable planning strategies and their trade-offs with the Modelling to Generate Alternatives (MGA) method. Check out the <a href="https://doi.org/10.1016/j.joule.2025.10214">article in Joule</a>  for practical recommendations on integrating MGA in your analyses, or TU Delft's <a href="https://www.tudelft.nl/en/2025/tbm/boosting-the-energy-transition-by-looking-further-than-the-cost-optimal-solution">interview</a> for a high-level overview of the work. 
+
+<img src="/assets/graphical_abstract.jpg" align="center" style="padding-top: 0px; padding-bottom: 0px; padding-right: 10px" width="60%" height="auto"/>
 
 </div>
 
