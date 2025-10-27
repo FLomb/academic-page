@@ -7,7 +7,7 @@ order: 3
 
 This page provides open-access slides from selected recent lectures and talks (starting from December 2021)
 
-- *2025, Oct 17*. [Is there no alternative? It is time energy planning models looked beyond cost-optimal solutions.](/assets/lectures/ECEMP_beyond_cost_optimal_pdf) Held together with [Fabian Neumann](https://fneum.org/) at the ECEMP 2025 in Brussels.
+- *2025, Oct 17*. [Is there no alternative? It is time energy planning models looked beyond cost-optimal solutions.](/assets/lectures/ECEMP_beyond_cost_optimal_pdf.pdf) Held together with [Fabian Neumann](https://fneum.org/) at the ECEMP 2025 in Brussels.
 
 - *2025, May 19*. [The ‘optimum’ doesn’t work in practice. How to generate practically viable decision alternatives](/assets/lectures/VITO_SPORES.pdf) Invited presentation for the 'Lessons learnt' seminar series at VITO.
 
