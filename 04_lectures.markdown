@@ -7,6 +7,8 @@ order: 3
 
 This page provides open-access slides from selected recent lectures and talks (starting from December 2021)
 
+- *2025, Nov 14*. [Beyond cost-effectiveness. Designing socially viable and technically resilient energy systems](https://www.4tu.nl/.wh/ea/uc/fd02c88370102d936180090703b02c99093b975bcb7b900/Day2-5-Francesco%20Lombardi.pdf). Keynote speech for the [4TU.Energy PhD course](https://www.4tu.nl/energy/news/looking-back-at-the-4tu.energy-phd-course-november-2025/).
+
 - *2025, Oct 17*. [Is there no alternative? It is time energy planning models looked beyond cost-optimal solutions.](/assets/lectures/ECEMP_beyond_cost_optimal_pdf.pdf) Held together with [Fabian Neumann](https://fneum.org/) at the ECEMP 2025 in Brussels.
 
 - *2025, May 19*. [The ‘optimum’ doesn’t work in practice. How to generate practically viable decision alternatives](/assets/lectures/VITO_SPORES.pdf) Invited presentation for the 'Lessons learnt' seminar series at VITO.
