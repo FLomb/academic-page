@@ -17,7 +17,7 @@ Energy planning models are used to support decisions on which energy technologie
 <p></p>
 <img src="/assets/mga_ladder.jpg" align="left" style="padding-top: 0px; padding-bottom: 10px; padding-right: 10px" width="100%" height="auto"/>
 
-We show how MGA can be integrated in your analyses in five levels of increasing potential. Check out the <a href="https://doi.org/10.1016/j.joule.2025.10214">article in Joule</a>  for practical recommendations on integrating MGA in your analyses, or TU Delft's <a href="https://www.tudelft.nl/en/2025/tbm/boosting-the-energy-transition-by-looking-further-than-the-cost-optimal-solution">interview</a> for a high-level overview of the work. 
+We show how MGA can be integrated in your analyses in five levels of increasing potential. Check out the <a href="https://doi.org/10.1016/j.joule.2025.102144">article in Joule</a>  for practical recommendations on integrating MGA in your analyses, or TU Delft's <a href="https://www.tudelft.nl/en/2025/tbm/boosting-the-energy-transition-by-looking-further-than-the-cost-optimal-solution">interview</a> for a high-level overview of the work. 
 
 </div>
 
