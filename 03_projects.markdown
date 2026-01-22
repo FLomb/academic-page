@@ -8,6 +8,19 @@ order: 4
 Below is an overview of the ongoing funding-awarded or co-funded projects to which I contribute(d). Together with the [research areas](/research-outputs), they provide an overview of the main recent and ongoing activities as a basis for potential ideas for collaboration.
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
+<p><h style="color: #4032F9;"><b>SPROUT. System-Positive, Replicable, Optimised
+Urban-horticultural Transitions.</b></h> (starting May 2026)</p> 
+
+<p>Greenhouse horticulture is pivotal to the Dutch economy and energy system. Via its combined heat-and-power (CHP) plants, used for electricity, heat and CO<sub>2</sub> needs, it provides 10% of the dispatchable power capacity that balances the increasing variability of demand and renewables on the grid. However, the energy transition requires horticulture to shift from fossil CHPs to sources like geothermal and solar, turning from a flexible net electricity producer into an inflexible net electricity consumer. </p>
+
+<p>Instead, horticulture may aid and accelerate the Dutch energy transition by shifting to Multi-Carrier Energy Hubs (MC-EHs), where many renewable generation, conversion and storage technologies across diverse carriers integrate smartly. MC-EHs can be designed to benefit not only local greenhouse needs but also to act as system buffers that support large-scale renewable integration and mitigate grid congestion. We call this a 'system-positive' MC-EH.</p>
+
+<p>In SPROUT, we will design a system-positive MC-EH for a real-life pilot and support the concept scale-up to the whole energy system. We do this together with the University of Leiden, Wageningen Research and University, as well as industrial partners Division Q, eFuelution, Resourcefully and Westland Infra. The project is funded by RVO via the MOOI funding.</p>
+
+</div>
+
+
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><a href="https://seeds-project.org"><b>SEEDS. Stakeholder-Based Environmentally-Sustainable and Economically Doable Scenarios for the Energy Transition.</b></a></h> (concluded)</p> 
 
 <p>In the SEEDS project, we built a <b>co-creative, multi-model workflow</b> that integrates <b>human preferences</b> into the generation of carbon-neutral energy system design options while accurately modelling the relevant technical, economic and environmental constraints. The cornerstone of the modelling workflow was the <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a> approach I developed.</p>
