@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Francesco Lombardi | Except otherwise stated, all material here is licensed under CC BY SA 4.0. The website is powered by Jekyll.</title>
+<title>Francesco Lombardi</title>
 <meta name="generator" content="Jekyll v4.2.2" />
 <meta property="og:title" content="Francesco Lombardi" />
 <meta property="og:locale" content="en_US" />
@@ -19,6 +19,7 @@
 {"@context":"https://schema.org","@type":"WebSite","description":"Except otherwise stated, all material here is licensed under CC BY SA 4.0. The website is powered by Jekyll.","headline":"Francesco Lombardi","name":"Francesco Lombardi","url":"http://localhost:4000/"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link rel="stylesheet" href="/assets/css/academicons.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Francesco Lombardi" /></head>
+<link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">Francesco Lombardi</a><nav class="site-nav">
@@ -31,7 +32,7 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/lectures/">Lectures &amp; Talks</a><a class="page-link" href="/research-outputs/">Research areas</a></div>
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/research-outputs/">Research areas</a><a class="page-link" href="/projects/">Projects</a><a class="page-link" href="/lectures/">Lectures &amp; Talks</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -47,40 +48,40 @@
 
 <p>Below is an overview of the (primary) research areas I am currently working on. If you have great ideas for collaboration or a thesis on these topics, get in touch!</p>
 
-<div style="background-color: #E1E6E9; text-align:left; vertical-align: middle; padding:20px 20px;">
-<p><h style="color: #1756a9;"><b>Optimisation algorithms applied to Energy Sytem models.</b></h> 
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
+<p><h style="color: #4032F9;"><b>Algorithms to generate energy system design alternatives (MGA).</b></h> 
 
-<img src="/assets/spores.png" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text" />
+<img src="/assets/spores.svg" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text" />
 
 Energy system models are tools to support deliberation about which technologies do deploy, and where, to achieve the energy transition. Ideally, they identify for us the 'optimal' answer to such questions. Except, such an optimal answer is often not viable nor desirable in practice. So, is there no alternative? </p>
 
-<p>In fact, there are many technically-feasible, economically-comparable alternatives. They are just normally hidden from view. That's why I work on optimisation methods that make these options available. An example is the <b>SPORES</b> algorithm. By bringing such options to the surface, I aim to expand the perception of what is possible, thereby supporting a more meaningful societal deliberation. Many of the <a href="/about">projects</a> that fund my current research are based on SPORES. Check out the full paper published in  <a href="/assets/spores.png">Joule</a>.</p>
+<p>In fact, there are many technically-feasible, economically-comparable alternatives. They are just normally hidden from view. That's why I work on optimisation methods that make these options available, known as 'Modelling to Generate Alternatives', or MGA. An example is the <b>SPORES</b> algorithm. By bringing such options to the surface, I aim to expand the perception of what is possible, thereby supporting a more meaningful societal deliberation. Many of the <a href="/projects">projects</a> that fund my current research build on SPORES. Check out the original <a href="https://www.cell.com/joule/fulltext/S2542-4351(20)30348-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435120303482%3Fshowall%3Dtrue">Joule</a> study.</p>
 
 </div>
 
 <div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
-<div style="background-color: #E1E6E9; text-align:left; vertical-align: middle; padding:20px 20px;">
-<p><h style="color: #1756a9;"><b>Cross-scale modelling and demand simulation.</b></h> 
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
+<p><h style="color: #4032F9;"><b>Stochastic simulation of user behaviour and demand.</b></h> 
 
-<img src="/assets/cross.png" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text" />
+<img src="/assets/demand_sim.svg" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text" />
 
-When dealing with models of large-scale energy systems, such as for entire countries or continents, many technical details end up being overlooked for computational tractability or smoothed out by aggregation. Cross-scale modelling means finding ways to translate those essential technical details for a given research question into information that larger-scale, coarser models can handle.</p>
+Energy demand time series are among the most critical inputs for designing carbon-neutral energy systems. However, they are highly uncertain, especially within systems in transition: historical demand data are a poor predictor of future demand, and, often, temporally-resolved metered data simply do not exist, such as when modelling systems in remote areas or when looking at future electric-vehicle fleets. </p>
 
-Started as a side project for the stochastic simulation of <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544219307303">demand profiles in off-grid areas</a>, the open-source software <b>RAMP</b> is one of the key tools I adopt to enable cross-scale modelling. RAMP allows for the simulation of user behaviour, from individual to thousands or millions of users, allowing to understand aggregate energy demand temporal dynamics. The RAMP-mobility application of the software is the newest: it generates 1-min <a href="https://www.sciencedirect.com/science/article/pii/S0306261922001416">aggregate mobility and charging profiles across all of Europe</a> based solely on openly-available, easy-to gather data. Check out the project on <a href="https://github.com/RAMP-project">GitHub</a>.
+<p><b>RAMP</b> is an open-source software I designed for the stochastic generation of any user-driven energy demand time series based on few simple inputs. It allows simulating user behaviour, from individual to thousands or millions of users, and understanding temporal demand dynamics at any scale. The RAMP-mobility application of the software is the newest: it generates 1-min <a href="https://www.sciencedirect.com/science/article/pii/S0306261922001416">aggregate mobility and charging profiles across all of Europe</a> based solely on openly-available, easy-to gather data. Check out the project's <a href="https://rampdemand.org">website</a> and <a href="https://github.com/RAMP-project">GitHub</a> repository.</p>
 
 </div>
 
 <div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
-<div style="background-color: #E1E6E9; text-align:left; vertical-align: middle; padding:20px 20px;">
-<p><h style="color: #1756a9;"><b>Trade-offs between sector-coupling options.</b></h> 
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
+<p><h style="color: #4032F9;"><b>Scale-adaptable energy system modelling methods and tools.</b></h> 
 
-<img src="/assets/synfuel.png" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text" />
+<img src="/assets/cross_scale.svg" width="100" align="left" style="padding-top: 10px; padding-bottom: 10px" class="next-to-text" />
 
-The methods above allow me to investigate urgent research questions around the energy transition, above all the trade-offs between equally viable options to make our energy systems carbon-neutral. For instance, what changes, in practice, between directly electrifying our heat, transport and industry use of energy versus letting green hydrogen substitute conventional fuels.</p>
+Energy transition questions intersect many geographical scales, from households to urban, regional and national levels. When modelling at the scale of a city or larger, technical details within the system end up being overlooked for computational tractability or smoothed out by aggregation. At the same time, energy planning decisions outside the system are ignored despite their potentially high impact on the system design space.</p> 
 
-<p>A <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4012180">recent work</a> that I have co-authored uses a combination of SPORES, cross-scale modelling and other methods to look at hundreds of possible ways to make Europe carbon-neutral and energy self-sufficient. These include both fully electrified and highly hydrogen-based system configurations. You can explore the options and the trade-offs yourself at <a href="https://explore.callio.pe">explore.callio.pe</a>.</p>
+<p>With my contributions to the multi-scale open-source energy modelling framework <a href="https://callio.pe">Calliope</a>, I provide approaches to: i) translate those essential small-scale technical details for a given research question into information that larger-scale models can handle; and ii) integrate information on the many possible planning decisions outside the system in the uncertainty analysis of the design space. This is what I've done, for instance, in the <a href="/projects">WindSPORES project</a>. </p>
 
 </div>
 
@@ -100,7 +101,7 @@ The methods above allow me to investigate urgent research questions around the e
           <li class="p-name">Francesco Lombardi</li><li><a class="u-email" href="mailto:f.lombardi@tudelft.nl">f.lombardi@tudelft.nl</a></li></ul>
       </div>
 
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/FLomb"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">GitHub</span></a></li><li><a href="https://www.twitter.com/FrLomb"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">Twitter</span></a></li><li><a href="https://www.linkedin.com/in/francesco-lombardi-763891118/"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">Linkedin</span></a></li></ul>
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/FLomb"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">GitHub</span></a></li><li><a href="https://www.linkedin.com/in/francesco-lombardi-763891118/"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">Linkedin</span></a></li></ul>
 </div>
 
       <div class="footer-col footer-col-3">

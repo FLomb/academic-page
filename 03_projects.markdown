@@ -20,7 +20,7 @@ Urban-horticultural Transitions.</b></h></p>
 <div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
-<p><h style="color: #4032F9;"><a href="https://seeds-project.org"><b>SEEDS. Stakeholder-Based Environmentally-Sustainable and Economically Doable Scenarios for the Energy Transition.</b></a></h> (concluded)</p> 
+<p><h style="color: #4032F9;"><b>SEEDS. Stakeholder-Based Environmentally-Sustainable and Economically Doable Scenarios for the Energy Transition.</b></h> (concluded)</p> 
 
 <p>In the SEEDS project, we built a <b>co-creative, multi-model workflow</b> that integrates <b>human preferences</b> into the generation of carbon-neutral energy system design options while accurately modelling the relevant technical, economic and environmental constraints. The cornerstone of the modelling workflow was the <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a> approach I developed.</p>
 
