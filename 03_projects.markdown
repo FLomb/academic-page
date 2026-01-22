@@ -9,16 +9,15 @@ Below is an overview of the ongoing funding-awarded or co-funded projects to whi
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><b>SPROUT. System-Positive, Replicable, Optimised
-Urban-horticultural Transitions.</b></h> (starting May 2026)</p> 
+Urban-horticultural Transitions.</b></h></p> 
 
-<p>Greenhouse horticulture is pivotal to the Dutch economy and energy system. Via its combined heat-and-power (CHP) plants, used for electricity, heat and CO<sub>2</sub> needs, it provides 10% of the dispatchable power capacity that balances the increasing variability of demand and renewables on the grid. However, the energy transition requires horticulture to shift from fossil CHPs to sources like geothermal and solar, turning from a flexible net electricity producer into an inflexible net electricity consumer. </p>
+<p>Via its combined heat-and-power (CHP) plants, greenhouse horticulture provides 10% of the firm power capacity that balances the Dutch the grid. However, the energy transition requires shifting from fossil CHPs to sources like geothermal and solar, turning horticulture from a flexible net electricity producer into an inflexible net electricity consumer. </p>
 
-<p>Instead, horticulture may aid and accelerate the Dutch energy transition by shifting to Multi-Carrier Energy Hubs (MC-EHs), where many renewable generation, conversion and storage technologies across diverse carriers integrate smartly. MC-EHs can be designed to benefit not only local greenhouse needs but also to act as system buffers that support large-scale renewable integration and mitigate grid congestion. We call this a 'system-positive' MC-EH.</p>
-
-<p>In SPROUT, we will design a system-positive MC-EH for a real-life pilot and support the concept scale-up to the whole energy system. We do this together with the University of Leiden, Wageningen Research and University, as well as industrial partners Division Q, eFuelution, Resourcefully and Westland Infra. The project is funded by RVO via the MOOI funding.</p>
+<p><b>Multi-Carrier Energy Hubs (MC-EHs)</b>, where many technologies and carriers integrate smartly, are a promising alternative. In SPROUT, we will design MC-EHs that benefit not only local greenhouse needs but also act as <b>system buffers</b> that support large-scale renewable integration and mitigate grid congestion. We do this together with the University of Leiden, Wageningen Research and University, as well as industrial partners Division Q, eFuelution, Resourcefully and Westland Infra. The project is funded by RVO via the MOOI funding.</p>
 
 </div>
 
+<div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><a href="https://seeds-project.org"><b>SEEDS. Stakeholder-Based Environmentally-Sustainable and Economically Doable Scenarios for the Energy Transition.</b></a></h> (concluded)</p> 
@@ -46,7 +45,7 @@ deployment scenarios for Switzerland</b></a></h> (concluded)</p>
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><a href="https://justwind4all.eu"><b>JustWind4All. Just and effective governance for accelerating wind energy
-</b></a></h></p>
+</b></a></h> (concluded)</p>
 
 
 <p>JustWind4All aims to support the acceleration of on- and offshore wind energy, including emerging wind technologies like airborne and floating, by using a <b>trans-disciplinary multi-method research design</b>. It combines socio-environmental impact assessment, techno-economic modelling, <a href="https://doi.org/10.1016/j.joule.2020.08.002">SPORES</a>, participatory processes, living labs and more to support decision-making, focusing on energy justice and social innovation. The project, awarded funding by the EU's Horizon programme, started in October 2022 and runs for three years.  
