@@ -8,8 +8,7 @@ order: 4
 Below is an overview of the ongoing funding-awarded or co-funded projects to which I contribute(d). Together with the [research areas](/research-outputs), they provide an overview of the main recent and ongoing activities as a basis for potential ideas for collaboration.
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
-<p><h style="color: #4032F9;"><b>SPROUT. System-Positive, Replicable, Optimised
-Urban-horticultural Transitions.</b></h></p> 
+<p><h style="color: #4032F9;"><a href="https://www.tudelft.nl/en/2026/tbm/rvo-funding-to-transform-dutch-greenhouses-into-innovative-energy-hubs"><b>SPROUT. System-Positive, Replicable, Optimised Urban-horticultural Transitions.</b></a></h></p> 
 
 <p>Via its combined heat-and-power (CHP) plants, greenhouse horticulture provides 10% of the firm power capacity that balances the Dutch the grid. However, the energy transition requires shifting from fossil CHPs to sources like geothermal and solar, turning horticulture from a flexible net electricity producer into an inflexible net electricity consumer. </p>
 
