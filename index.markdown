@@ -12,7 +12,7 @@ This website provides an overview of my ongoing [projects](/projects) and [resea
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <h style="color: #111;"><b>Recent research highlights.</b></h> 
 <br>
-Energy planning models are used to support decisions on which energy technologies, such as wind or solar, to invest in and where to deploy them. However, because they overly fixate on minimising costs, their insights translate into poorly viable or unreliable plans. Instead of looking for one misleadingly ‘cost-optimal’ solution, <i>Modelling to Generate Alternatives (MGA)</i> maps out many viable planning strategies and their trade-offs.
+Energy planning models are used to support decisions on which energy technologies, such as wind or solar, to invest in and where to deploy them. However, because they overly fixate on minimising costs, their insights translate into poorly viable or unreliable plans. Instead of looking for one misleadingly ‘cost-optimal’ solution, <i>Modelling to Generate Alternatives</i> (MGA) maps out many viable planning strategies and their trade-offs.
 
 <p></p>
 <img src="/assets/mga_ladder.jpg" align="left" style="padding-top: 0px; padding-bottom: 10px; padding-right: 10px" width="100%" height="auto"/>
