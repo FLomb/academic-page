@@ -5,9 +5,9 @@
 layout: home
 ---
 
-I am an assistant professor at TU Delft, working on optimisation algorithms, energy system modelling, energy demand simulation, and other research areas that may support the design of socially just and technically robust energy systems. See the [About](/about) page for further details.
+I am an assistant professor at [TU Delft](https://www.tudelft.nl/staff/f.lombardi/), working on optimisation algorithms, energy system modelling, human-computer interaction, and other research areas that may support the design of practically viable and technically robust energy systems. See the [About](/about) page for further details.
 
-This website provides an overview of my ongoing [projects](/projects) and [research areas](/research-outputs), and access to material from [lectures or seminars](/lectures). Get in touch if you are looking for a collaboration or a thesis project. You'll find my contact details at the bottom of each page. 
+This website provides an overview of my ongoing [projects](/projects) and [research areas](/research-outputs), and access to material from [lectures or talks](/lectures). Get in touch if you are looking for a collaboration or a thesis project. You'll find my contact details at the bottom of each page. 
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <h style="color: #111;"><b>Recent research highlights.</b></h> 
@@ -17,7 +17,7 @@ Energy planning models are used to support decisions on which energy technologie
 <p></p>
 <img src="/assets/mga_ladder.jpg" align="left" style="padding-top: 0px; padding-bottom: 10px; padding-right: 10px" width="100%" height="auto"/>
 
-We show how MGA can be integrated in your analyses in five levels of increasing potential. Check out the <a href="https://doi.org/10.1016/j.joule.2025.102144">article in Joule</a>  for practical recommendations on integrating MGA in your analyses, or TU Delft's <a href="https://www.tudelft.nl/en/2025/tbm/boosting-the-energy-transition-by-looking-further-than-the-cost-optimal-solution">interview</a> for a high-level overview of the work. 
+We show how MGA can be integrated in your analyses in five levels of increasing potential. Check out the <a href="https://edu.nl/9ygf4">article in Joule</a>  for practical recommendations on integrating MGA in your analyses, or TU Delft's <a href="https://www.tudelft.nl/en/2025/tbm/boosting-the-energy-transition-by-looking-further-than-the-cost-optimal-solution">interview</a> for a high-level overview of the work. 
 
 </div>
 

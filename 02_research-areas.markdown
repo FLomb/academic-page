@@ -20,7 +20,7 @@ Energy system models are tools to support deliberation about which technologies 
 
 </div>
 
-<div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
+<div style="background-color: #f7f7f5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><b>Stochastic simulation of user behaviour and demand.</b></h> 
@@ -33,7 +33,7 @@ Energy demand time series are among the most critical inputs for designing carbo
 
 </div>
 
-<div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
+<div style="background-color: #f7f7f5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><b>Scale-adaptable energy system modelling methods and tools.</b></h> 

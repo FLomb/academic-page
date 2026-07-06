@@ -7,6 +7,9 @@ order: 4
 
 Below is an overview of the ongoing funding-awarded or co-funded projects to which I contribute(d). Together with the [research areas](/research-outputs), they provide an overview of the main recent and ongoing activities as a basis for potential ideas for collaboration.
 
+
+### Running
+
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><a href="https://www.tudelft.nl/en/2026/tbm/rvo-funding-to-transform-dutch-greenhouses-into-innovative-energy-hubs"><b>SPROUT. System-Positive, Replicable, Optimised Urban-horticultural Transitions.</b></a></h></p> 
 
@@ -16,7 +19,20 @@ Below is an overview of the ongoing funding-awarded or co-funded projects to whi
 
 </div>
 
-<div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
+<div style="background-color: #f7f7f5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
+
+<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
+<p><h style="color: #4032F9;"><a href="https://www.rampdemand.org"><b>RAMP's co-development. Stochastic multi-energy demand profiles</b></a></h></p>
+
+<p>RAMP is an open-source software suite for the stochastic simulation of any <b>user-driven energy demand</b> time series based on few simple inputs. The project aims to provide synthetic data wherever metered data does not exist, such as when designing systems in newly-built or remote urban areas or when looking at future electric-vehicle fleets.</p>
+
+<p>Born as a small self-managed project, RAMP is now a joint software development effort <a href="https://rampdemand.org/development">co-funded by many institutions</a>: Reiner Lemoine Institut, VITO, University of Liège and Universidad Mayor de San Simón.</p>
+
+</div>
+
+<div style="background-color: #f7f7f5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
+
+### Concluded
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><b>SEEDS. Stakeholder-Based Environmentally-Sustainable and Economically Doable Scenarios for the Energy Transition.</b></h> (concluded)</p> 
@@ -27,7 +43,7 @@ Below is an overview of the ongoing funding-awarded or co-funded projects to whi
 
 </div>
 
-<div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
+<div style="background-color: #f7f7f5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><a href="https://www.aramis.admin.ch/Grunddaten/?ProjectID=48588"><b>WindSPORES. Policy-relevant wind power
@@ -40,7 +56,7 @@ deployment scenarios for Switzerland</b></a></h> (concluded)</p>
 
 </div>
 
-<div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
+<div style="background-color: #f7f7f5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
 <p><h style="color: #4032F9;"><a href="https://justwind4all.eu"><b>JustWind4All. Just and effective governance for accelerating wind energy
@@ -52,13 +68,3 @@ deployment scenarios for Switzerland</b></a></h> (concluded)</p>
 
 </div>
 
-<div style="background-color: #F5F5F5; text-align:left; vertical-align: middle; padding:20px 20px;"></div>
-
-<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;">
-<p><h style="color: #4032F9;"><a href="https://www.rampdemand.org"><b>RAMP's co-development. Stochastic multi-energy demand profiles</b></a></h></p>
-
-<p>RAMP is an open-source software suite for the stochastic simulation of any <b>user-driven energy demand</b> time series based on few simple inputs. The project aims to provide synthetic data wherever metered data does not exist, such as when designing systems in newly-built or remote urban areas or when looking at future electric-vehicle fleets.</p>
-
-<p>Born as a small self-managed project, RAMP is now a joint software development effort <a href="https://rampdemand.org/development">co-funded by many institutions</a>: Reiner Lemoine Institut, VITO, University of Liège and Universidad Mayor de San Simón.</p>
-
-</div>
