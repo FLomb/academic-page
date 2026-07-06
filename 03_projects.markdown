@@ -26,7 +26,7 @@ Below is an overview of funding-awarded or co-funded projects to which I contrib
 
 <p>'Modelling to Generate Alternatives' (MGA) is an increasingly popular method to provide more insightful and robust energy system planning. However, the latest advancements of MGA have often been embedded in specific modelling software, limiting reuse.</p>
 
-<p>The project aims to streamline MGA's use. First, by developing a <b>plug-and-play MGA</b> Python package that can be coupled with many widespread software. Second, by providing an <b>interactive dashboard</b> to explore MGA outputs regardless of their origin and discover powerful insights . The project is partly <a href="https://www.tudelft.nl/en/climate-action/seed-fund/seed-fund-grants-2026-february">funded by the TU Delf Climate Action Programme</a>.</p>
+<p>The project aims to streamline MGA's use. First, by developing a <b>plug-and-play MGA</b> Python package that can be coupled with many widespread software. Second, by providing an <b>interactive dashboard</b> to explore MGA outputs regardless of their origin and discover powerful insights. The project is partly <a href="https://www.tudelft.nl/en/climate-action/seed-fund/seed-fund-grants-2026-february">funded by the TU Delf Climate Action Programme</a>.</p>
 
 </div>
 
