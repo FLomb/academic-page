@@ -5,14 +5,23 @@
 
 
 /** Basic styling */
-body { background-color: #F5F5F5; 
-       font-family: "Open Sans", Open Sans, sans;
-       font-size: 16px;
+body {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont,
+                 "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: 400;
+    color: #333;
 }
 
 
-a { color: #4032F9; text-decoration: none; }
-a:visited { color: #4032F9; }
+h1, h2, h3, h4 {
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+//a { color: #4032F9; text-decoration: none; }
+//a:visited { color: #4032F9; }
 
 img.rounded-corners {
   margin-right: 20px;
@@ -21,4 +30,53 @@ img.rounded-corners {
 
 img.next-to-text {
   margin-right: 20px;
+}
+
+/** Colours stuff */
+
+/* Page background */
+body {
+  background-color: #f7f7f5; /* warm off-white */
+  color: #1f2328; /* softer black than #000 */
+}
+
+/* Links */
+a {
+  color: #4032F9; /* bright blue of my own liking */
+}
+
+a:hover {
+  color: #4032F9;
+}
+
+a:visited {
+  color: #4032F9; 
+}
+
+/* Navbar */
+.site-header {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+/* Site title */
+.site-title {
+  color: #1f2328;
+  font-weight: 600;
+}
+
+/* Navigation links */
+.site-nav a {
+  color: #444;
+}
+
+.site-nav a:hover {
+  color: #1f2328;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #ffffff;
+  border-top: 1px solid #e6e6e6;
+  color: #666;
 }
