@@ -8,6 +8,12 @@ order: 3
 This page provides open-access slides from **selected** lectures and talks.
 
 
+### 2026
+
+2026, Jul 01. [Research in our team with PyPSA. Usage till now and future plans](/assets/lectures/PyPSA_op_TUD_Lombardi_pdfready.pdf). Presentation (in Dutch) at the first PyPSA-NL user meeting organised by the Dutch TSO, TenneT.
+
+2026, Mar 06. [Conceptual framework for high-quality model integration and application](/assets/lectures/SEN1531_model_application_and_integration.pdf). Lecture for the TU Delft master course 'Design of Integrated Energy Systems'.
+
 ### 2025
 
 2025, Nov 14. [Beyond cost-effectiveness. Designing socially viable and technically resilient energy systems](https://www.4tu.nl/.wh/ea/uc/fd02c88370102d936180090703b02c99093b975bcb7b900/Day2-5-Francesco%20Lombardi.pdf). Keynote speech for the [4TU.Energy PhD course](https://www.4tu.nl/energy/news/looking-back-at-the-4tu.energy-phd-course-november-2025/).
