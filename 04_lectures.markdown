@@ -2,7 +2,7 @@
 layout: page
 title: Lectures & Talks
 permalink: /lectures/
-order: 3
+order: 4
 ---
 
 This page provides open-access slides from **selected** lectures and talks.
