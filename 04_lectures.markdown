@@ -10,7 +10,7 @@ This page provides open-access slides from **selected** lectures and talks.
 
 ### 2026
 
-2026, Nov 01. [The MGA4all toolbox. Interoperable and uncertainty-aware MGA](/assets/lectures/INFORMS_2026_MGA4all.pdf). Invited talk at the 2026 INFORMS annual meeting, presenting the [MGA4all project](/03_projects.markdown).
+2026, Nov 01. [The MGA4all toolbox. Interoperable and uncertainty-aware MGA](/assets/lectures/INFORMS_2026_MGA4all.pdf). Invited talk at the INFORMS annual meeting, presenting the [MGA4all project](/03_projects.markdown).
 
 2026, Jul 01. [Research in our team with PyPSA. Usage till now and future plans](/assets/lectures/PyPSA_op_TUD_Lombardi_pdfready.pdf). Presentation (in Dutch) at the first PyPSA-NL user meeting organised by the Dutch TSO, TenneT.
 
